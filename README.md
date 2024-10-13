@@ -40,7 +40,7 @@ I used a variety of selectors to enhance my adaptability with different elements
 
 ### Prerequisites
 
-- Node.js (version X.X.X)
+- Node.js
 - Playwright
 
 ### Installation and Running Tests
