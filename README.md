@@ -17,7 +17,7 @@ This project is a test automation suite for the Saucedemo application using Play
 
 ## Selectors Used
 
-The following selectors are utilized in the test automation, categorized by type:
+I used a variety of selectors to enhance my adaptability with different elements; here are some of them:
 
 - **XPath Selector**: 
   - `this.product_list = '//*[@id="inventory_container"]/div/div/div/div/div/div/a';`: XPath for the product list.
