@@ -10,6 +10,10 @@ This project is a test automation suite for the Saucedemo application using Play
 - Implements the Page Object Model for better structure and readability.
 - Includes various selectors for interacting with the Saucedemo application.
 
+## Video
+
+https://www.awesomescreenshot.com/video/32507655?key=f82840d7f93af13916e08f14af31ce73
+
 ## Project Structure
 
 - **tests/**: Contains test scripts.
